@@ -44,6 +44,7 @@
 * Pass the newTasks prop from App to Tasks
 * Pass the newOrders prop from App to Orders
 * Pass the tickets prop from App to Tickets
+
 * Pass the orders prop from App to TransactionPanel
 * Pass the messages prop from App to TopNav
 * Pass the tasks prop from App to TaskPanel
